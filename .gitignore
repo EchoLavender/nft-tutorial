@@ -6,11 +6,13 @@
 .pnp.js
 .idea
 
+
 # testing
 /coverage
 
 # production
 /build
+src/abis/
 
 # misc
 .DS_Store
